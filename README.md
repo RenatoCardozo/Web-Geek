@@ -95,26 +95,36 @@ Interface para vincular itens à sua coleção pessoal.
 
 ### Perfil do Usuário
 
-<img src="https://github.com/RenatoCardozo/Images/blob/main/cadastroCompleto.png" alt="Tela de adição de item">
-
-<img src="https://github.com/RenatoCardozo/Images/blob/main/cadastroCompleto.png" alt="Tela de adição de item">
-
+<img src="https://github.com/RenatoCardozo/Images/blob/main/perfil.png" alt="Pagina de Perfil">
 Exibição das informações do usuário, como nome, e-mail e estatísticas da coleção.
 
-Edição de Perfil
+### Edição de Perfil
 
+<img src="https://github.com/RenatoCardozo/Images/blob/main/editarPerfil.png" alt="Pagina de edição de perfil">
+Formulário para atualizar informações do perfil, como senha e dados pessoais.
 
+### Menu
 
-Formulário para atualizar informações do perfil, como foto e dados pessoais.
-
-Menu
-
-
-
+<img src="https://github.com/RenatoCardozo/Images/blob/main/menu.png" alt="Menu">
 Navegação principal com links para todas as seções do aplicativo.
 
-Listagem de Itens com Filtro
+### Listagem de Itens com Filtro
 
+<img src="https://github.com/RenatoCardozo/Images/blob/main/cadastrado.png" alt="Filtros">
+Exibição de todos os itens da coleção com opções de filtro por coleção, genero, idioma e coleção.
 
+### Pagina inicial
 
-Exibição de todos os itens da coleção com opções de filtro por categoria, nome ou data.
+<img src="https://github.com/RenatoCardozo/Images/blob/main/inicial.png" alt="Tela inicial">
+Lista as categorias que tem itens cadastrados e vinculados ao usuario, número de itens, número d ecategorias e o valor total gasto.
+
+### Item completo
+
+<img src="https://github.com/RenatoCardozo/Images/blob/main/cadastrado2.png" alt="Item">
+Descrição completa do item.
+
+## Planejamento Futuro:
+
+* Suporte a novos tipos de itens geek (figures, álbuns, artbooks e jogos).
+* Integração com APIs externas para preenchimento automático de informações.
+* Funcionalidades sociais (compartilhamento de coleções, rankings e trocas entre usuários).
