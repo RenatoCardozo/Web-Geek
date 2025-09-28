@@ -1,6 +1,10 @@
 # Geek Collection Manager
 
-Desenvolvimento de uma aplicação web pensada para no futuro se tornar multiplataforma voltada ao engajamento e produtividade de colaboradores em ambientes corporativos, utilizando conceitos de gamificação. O projeto envolveu desde a pesquisa teórica até a implementação prática, seguindo as fases da engenharia de software.
+Plataforma em desenvolvimento para gestão de coleções do universo geek,
+atualmente com suporte a mangás, HQs e livros, mas projetada para expansão
+futura, incluindo figures, álbuns, jogos e art books. O sistema busca unir
+organização personalizada e estatísticas visuais, proporcionando ao usuário uma
+experiência de catálogo digital moderna.
 
 ## Funcionalidades
 
@@ -15,7 +19,6 @@ Desenvolvimento de uma aplicação web pensada para no futuro se tornar multipla
 * ### Front-end:
   - Next.js (14.2.3) com React 18.
   - React Hook Form para formulários dinâmicos multi-etapas.
-  - React ChartJS 2 para gráficos e estatísticas visuais da coleção.
   - TailwindCSS para estilização responsiva.
   - SweetAlert2 e Sonner para feedback visual e notificações.
   - js-cookie para gerenciamento de sessões.
